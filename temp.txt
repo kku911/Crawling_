@@ -1,0 +1,19 @@
+param = {
+    'isDetailSearch': 'N',
+    'searchGubun': 'true',
+    'viewYn': 'OP',
+    'strQuery': '패션 인공지능',
+    'order': '/DESC',
+    'onHanja': 'false',
+    'strSort': 'RANK',
+    'iStartCount': 0
+    'sflag': 1
+    'isFDetailSearch': 'N',
+    'pageNumber': 1
+    'resultKeyword': '패션 인공지능',
+    'icate': 're_a_kor',
+    'colName': 're_a_kor',
+    'pageScale': 100
+    'isTab': 'Y',
+    'query': '패션 인공지능'
+}
